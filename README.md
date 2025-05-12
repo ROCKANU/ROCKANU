@@ -1,9 +1,4 @@
-<h1 style="text-align: center; color: green;">
-    <marquee direction="right" behavior="alternate" 
-        style="border:black 2px solid">
-        Hi 👋, I'm Anushri Om Prakash Tiwari
-    </marquee>
-    </h1>
+<h1 align="center">Hi 👋, I'm Anushri Om Prakash Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockanu&label=Profile%20views&color=0e75b6&style=flat" alt="rockanu" /> </p>
