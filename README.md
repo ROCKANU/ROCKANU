@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anushri Om Prakash Tiwari</h1>
-<h2 style="text-align: center; color: green;">
-        Welcome!
+<h1 style="text-align: center; color: green;">
+                   Welcome!
     <marquee direction="right" behavior="alternate" 
         style="border:black 2px solid">
         Hi 👋, I'm Anushri Om Prakash Tiwari
