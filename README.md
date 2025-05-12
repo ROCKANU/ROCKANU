@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java for backend and SQL for Database**
 
-- 👯 I’m looking to collaborate on **Rana Hospital And Management system**
-
 - 💬 Ask me about **React,next**
 
 - 📫 How to reach me **anushritiwariom@gmail.com**
